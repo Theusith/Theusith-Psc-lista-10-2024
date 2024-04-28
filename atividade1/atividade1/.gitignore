@@ -1,7 +1,9 @@
 ### IntelliJ IDEA ###
+out/
+*.idea
+*.xml
 *.iml
-.ideia
-out
+
 ### Eclipse ###
 .apt_generated
 .classpath

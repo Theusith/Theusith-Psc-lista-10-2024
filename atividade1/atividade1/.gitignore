@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 *.iml
-?ideia
+.ideia
 out
 ### Eclipse ###
 .apt_generated

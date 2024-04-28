@@ -20,7 +20,6 @@ public class Main {
             opcao = sc.nextLine();
         }while (opcao.equalsIgnoreCase("S"));
 
-
         for(Pessoa p : pessoas){
             System.out.println(p.getNome());
             System.out.println(p.getIdade());
